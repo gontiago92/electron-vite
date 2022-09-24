@@ -1,6 +1,6 @@
 {
   "name": "electron-vite",
-  "author": "Tiago Goncalves",
+  "author": "Author comes here",
   "version": "0.0.0",
   "main": "electron/electron.js",
   "build": {
